@@ -1,0 +1,57 @@
+/*colors and fonts*/
+
+
+
+body {
+	background:white;
+	color:#FF8CEB;
+	font-size:18px;
+	font-family:'Sansita Swashed', cursive;
+	letter-spacing:1px;
+	text-align: center;
+
+
+}
+
+#logo {
+	width:40px;
+}
+
+h1 {
+color:red;
+font-family:Times; 
+font-size:35px;
+}
+
+h2 { 
+color:#A77E61;
+font-size:25px;
+font-weight:bold;
+font-family:'Lobster Two', cursive;
+}
+
+div {
+	background:#FFE7F3;
+    padding: 60px;
+    margin: 50px;
+	box-shadow: 70px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 5px;
+	border: rgb(1,1,1,1);
+ 
+
+
+}
+a {
+	color:#A77E61; 
+}
+a: hover {
+	color:red;
+}
+/*custom design with class*/
+
+ .container {
+ 	width:700px;
+ 	margin:40px auto;
+ 
+ 
+
